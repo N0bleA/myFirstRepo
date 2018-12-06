@@ -1,5 +1,3 @@
-# myFirstRepo
-SmallScaledProject
 
 This project is a facebook alike application.
 The application can capable of add,remove,check friendship between people.
